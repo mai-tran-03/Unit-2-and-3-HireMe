@@ -1,0 +1,56 @@
+h1 {
+    color: #191a1c;
+    background-color: #768bb5;
+    font-family: 'Noto Sans TC', sans-serif;
+    text-align: center;
+}
+
+h4 {
+    color: #2d246b;
+    background-image: linear-gradient(to right, transparent, mistyrose);
+    font-family: 'Noto Sans KR', sans-serif;
+    text-align: center;
+    font-size: 18px;
+}
+
+h5 {
+    color: #d5dded;
+    font-family: 'Noto Sans SC', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+.favorite {
+    color: #d5dded;
+    background-color: #776dc2;
+    font-size: 25px;
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.list {
+    color: #ffffff;
+    font-family: 'Noto Sans KR', sans-serif;
+
+}
+
+.food {
+    width: 150px;
+    height: 110px;
+    border: double 3px gray;
+}
+
+.social {
+    width: 150px;
+    height: 250px;
+    border: groove 3px gray;
+}
+
+.thing {
+    width: 120px;
+    height: 100px;
+    border: solid 3px gray;
+}
+
+body {
+    background-color: #1444b5;
+}
